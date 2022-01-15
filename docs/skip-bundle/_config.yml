@@ -30,7 +30,7 @@ twitter_username: billyndirangu
 github_username:  Willbeckh
 
 # Build settings
-theme: minima
+theme: hacker
 plugins:
   - jekyll-feed
 
