@@ -1,7 +1,9 @@
+---
 layout: page
 title: "Home"
-<!-- permalink: https://willbeckh.github.io/jekyll-demo-site/home/ -->
+permalink: /home/
 
+---
 <!-- site content -->
 ## dummy title
 - first
